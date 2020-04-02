@@ -28,7 +28,7 @@ decade in the time period covered (i.e strictly decreasing).
 a given decade, breaking ties alphabetically.
 
 
-To run this repositoru:
+To run this repository:
 - clone this repository on your machine(or download the zip file)
 - open the project(IntelliJ recommended)
 - have at least Java8 installed(recommended JDK11)
