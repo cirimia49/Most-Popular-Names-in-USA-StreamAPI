@@ -33,3 +33,9 @@ To run this repository:
 - clone this repository on your machine(or download the zip file)
 - open the project(IntelliJ recommended)
 - have at least Java8 installed(recommended JDK11)
+- run Demo file and type the required inputs asked
+
+
+Created by :+1:  ***@Constantin Irimia***
+
+LinkedIn: https://www.linkedin.com/in/constantin-irimia-0294ab112/
